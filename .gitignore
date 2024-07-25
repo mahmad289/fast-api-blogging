@@ -1,0 +1,12 @@
+# Python
+*.pyc
+*.__pycache__/
+
+
+# Datbase
+blog.db
+
+blog-env
+
+.DS_Store
+
